@@ -1,2 +1,2 @@
 # Wiki_Wizard
-A fantasy monster-fighter
+A fantasy monster-fighter. It seems empty, but a big surprise will come up...
