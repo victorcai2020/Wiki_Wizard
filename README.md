@@ -6,6 +6,8 @@ Current release:
   Forgotten Path
   
   Lost Labyrinth
+  
+Link to releases: https://github.com/victorcai2020/Wiki_Wizard/releases/tag/v1.0
 
 Samples:
 
