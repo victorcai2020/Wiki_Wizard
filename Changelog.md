@@ -1,17 +1,17 @@
 Maps:
 
-Arctic, cave and desert maps
+- Arctic, cave and desert maps
 
-Open air, less restrictive maps
+- Open air, less restrictive maps
 
 Textures:
 
-Retexture monsters to fit themes
+- Retexture monsters to fit themes
 
-Build a boss texture
+- Build a boss texture
 
 Sound:
 
-Add spell sounds
+- Add spell sounds
 
-Possibly a monster death sound?
+- Possibly a monster death sound?
