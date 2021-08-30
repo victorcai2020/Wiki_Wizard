@@ -3,10 +3,12 @@ In a magical world, monsters have been popping up and attacking the locals. Help
 
 Current release:
 
-  Forgotten Path
+  - Forgotten Path
   
-  Lost Labyrinth
+  - Lost Labyrinth
   
+Please let me know in the issues section if there are any problems.
+
 Link to releases: https://github.com/victorcai2020/Wiki_Wizard/releases/tag/v1.0
 
 Samples:
