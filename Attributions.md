@@ -2,6 +2,10 @@
 
 https://opengameart.org/users/fantasy-musica
 
-"Alagard" by Julius: 
+"Alagard.tff" by Julius: 
 
 http://pix3m.deviantart.com/art/Bitmap-font-Alagard-381110713
+
+"Spell_01.mp3" by Little Robot Sound Factory:
+
+www.littlerobotsoundfactory.com
