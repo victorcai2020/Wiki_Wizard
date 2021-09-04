@@ -4,8 +4,12 @@ In a magical world, monsters have been popping up and attacking the locals. Help
 Current release:
 
   - Forgotten Path
-  
   - Lost Labyrinth
+  - Cold Mountain
+  - Frozen Beach
+  - Mysterious Mine
+  - Ruined Ruins
+  - ??? 
   
 Please let me know in the issues section if there are any problems.
 
