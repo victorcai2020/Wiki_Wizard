@@ -1,5 +1,5 @@
 # Wiki_Wizard
-In a magical world, monsters have been popping up and attacking the locals. Help Wiki to defeat the monsters and save the village!
+In a magical world, monsters have been popping up and attacking the locals. Help Wiki to defeat the monsters and restore order.
 
 Current release:
 
