@@ -11,6 +11,11 @@ Current release:
   - Ruined Ruins
   - ??? 
   
+Prerequest(what you need to download):
+
+ - pytmx
+ - pytweening
+
 Please let me know in the issues section if there are any problems.
 
 Link to releases: https://github.com/victorcai2020/Wiki_Wizard/releases/tag/v1.0
