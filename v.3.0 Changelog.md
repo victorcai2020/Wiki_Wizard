@@ -4,6 +4,7 @@ Gameplay:
  - Savegame
  - Story
  - NEW MONSTER
+ - UNIQUE BATTLE MAP ACCOMADATING MONSTER
 
 Technical:
 
