@@ -10,4 +10,5 @@ Gameplay:
 Technical:
 
  - Improved graphics
+ - Bug and glitch fixes
  - Better sounds?
