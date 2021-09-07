@@ -3,6 +3,7 @@ Gameplay:
  - Cutscenes
  - Savegame
  - Story
+ - Level complete fanfare
  - NEW MONSTER!
  - UNIQUE BATTLE MAP ACCOMADATING MONSTER!
  - TRANSFORM FROM ACTION-ADVENTURE TO RPG!
