@@ -6,11 +6,11 @@ Remake:
    - Savegame
    - Story
    - Level complete fanfare
-   - Locals to rescue?
+   - Locals that give tips
    - NEW MONSTER!
    - UNIQUE BATTLE MAP ACCOMADATING MONSTER!
    - TRANSFORM FROM ACTION-ADVENTURE TO RPG!
-   - IMPROVED MAPS
+   - IMPROVED MAPS!
 
  Technical:
 
